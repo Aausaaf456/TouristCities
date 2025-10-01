@@ -28,11 +28,11 @@ It provides:
 
 ## ⚙️ Setup Instructions  
 
-### 1️⃣ Clone the repository  
+### 1️ Clone the repository  
 ```bash
 git clone https://github.com/Aausaaf456/TouristCities.git
 cd TouristCities
-2️⃣ Install dependencies
+2️ Install dependencies
 bash
 Copy code
 # For touristbackend

@@ -26,7 +26,7 @@ It provides:
 
 ---
 
-## ⚙️ Setup Instructions  
+##  Setup Instructions  
 
 ### 1️ Clone the repository  
 ```bash

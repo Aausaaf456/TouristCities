@@ -8,7 +8,7 @@ It provides:
 
 ---
 
-## ✨ Features  
+##  Features  
 
 -  Search for hotels in Indian cities using **OpenTripMap API**  
 -  Get images & details for tourist attractions  

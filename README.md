@@ -20,8 +20,7 @@ It provides:
 ##  Tech Stack  
 
 - **Backend:** Node.js, Express  
-- **APIs:** OpenTripMap (hotels & places), IRCTC/Train API (for schedules)  
-- **Database (optional):** MongoDB (future support)  
+- **APIs:** OpenTripMap (hotels & places), IRCTC/Train API (for schedules)   
 - **Frontend (planned):** React + Vite + TailwindCSS  
 
 ---

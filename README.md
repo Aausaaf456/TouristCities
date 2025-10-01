@@ -1,23 +1,23 @@
-# 🌍 TouristCities Website  
+#  TouristCities Website  
 
 A **full-stack project** that helps users explore tourist cities in India.  
 
 It provides:  
-- 🏨 Hotels & places data (from **touristbackend**)  
+-  Hotels & places data (from **touristbackend**)  
 - places & Hotels (from **trainapi**)  
 
 ---
 
 ## ✨ Features  
 
-- 🔍 Search for hotels in Indian cities using **OpenTripMap API**  
-- 🖼️ Get images & details for tourist attractions  
-- 🚆 Fetch train details for travel planning  
-- 🔗 Simple REST APIs that can connect to a **React frontend**  
+-  Search for hotels in Indian cities using **OpenTripMap API**  
+-  Get images & details for tourist attractions  
+-  Fetch train details for travel planning  
+-  Simple REST APIs that can connect to a **React frontend**  
 
 ---
 
-## 🛠️ Tech Stack  
+##  Tech Stack  
 
 - **Backend:** Node.js, Express  
 - **APIs:** OpenTripMap (hotels & places), IRCTC/Train API (for schedules)  
